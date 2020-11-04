@@ -1,4 +1,4 @@
-## This scripts load the data frame for assignment #1 of EXplanatory Data Analysis
+## This scripts load the data frame for assignment #1 of Exploratory Data Analysis
 ## and creates the third plot
 
 library(dplyr)
